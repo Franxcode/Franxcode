@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, Nice to meet you! I am Francisco Oliva</h1>
-<h3 align="center">A passionate Front-End developer from Chile working towards to become Full Stack JS</h3>
+<h1 align="center">Hello 👋, nice to meet you! I am Francisco Oliva</h1>
+<h3 align="center">A passionate Front-End developer from Chile, working towards to become Full Stack JS.</h3>
 
 - 🌱 I’m currently learning **React and PostgreSQL**
 
@@ -7,7 +7,7 @@
 
 - 📫 You can contact me at **francisco.j.oliva@gmail.com**
 
-- ⚡ Fun fact **I dream code.**
+- ⚡ A fun fact about me is that literally **I dream code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
