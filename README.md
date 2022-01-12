@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Nice to meet you! I am Francisco Oliva</h1>
+<h1 align="center">Hello 👋, Nice to meet you. I am Francisco Oliva.</h1>
 <h3 align="center">A passionate Front-End developer from Chile working towards to become Full Stack JS</h3>
 
 - 🌱 I’m currently learning **Angular and Nodejs**
