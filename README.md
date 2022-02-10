@@ -1,9 +1,9 @@
-<h1 align="center">Hello 👋, Nice to meet you. I am Francisco Oliva.</h1>
+<h1 align="center">I am Francisco Oliva</h1>
 <h3 align="center">A Full Stack developer from Chile</h3>
 
-- 🌱 I’m currently learning **Angular and Nodejs**
+- 🌱 I’m currently learning **Angular and Nodejs.**
 
-- 💬 Feel free to ask me about **HTML, CSS, jQuery, JavaScript, Bootstrap, PostgreSQL, Nodejs, Express**
+- 💬 Feel free to ask me about **HTML, CSS, jQuery, JavaScript, Bootstrap, PostgreSQL, Nodejs, Express.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
