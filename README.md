@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular and Nodejs.**
 
-- 💬 Feel free to ask me about **HTML, CSS, jQuery, JavaScript, Bootstrap, PostgreSQL, Nodejs, Express.**
+- 💬 Feel free to ask me about **Frontend, Backend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
